@@ -15,6 +15,7 @@
 		870B8AB9219FAE5F00AFC8C0 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870B8AB8219FAE5F00AFC8C0 /* RatingControl.swift */; };
 		87F57EE4219FBA1000D6E532 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87F57EE3219FBA1000D6E532 /* Meal.swift */; };
 		87F57EEC219FBBE900D6E532 /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87F57EEB219FBBE900D6E532 /* FoodTrackerTests.swift */; };
+		87F57EF4219FBFA600D6E532 /* MealTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87F57EF3219FBFA600D6E532 /* MealTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		87F57EE9219FBBE900D6E532 /* FoodTrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodTrackerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		87F57EEB219FBBE900D6E532 /* FoodTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerTests.swift; sourceTree = "<group>"; };
 		87F57EED219FBBE900D6E532 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87F57EF3219FBFA600D6E532 /* MealTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				870B8AB2219F781600AFC8C0 /* Info.plist */,
 				870B8AB8219FAE5F00AFC8C0 /* RatingControl.swift */,
 				87F57EE3219FBA1000D6E532 /* Meal.swift */,
+				87F57EF3219FBFA600D6E532 /* MealTableViewCell.swift */,
 			);
 			path = FoodTracker;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				870B8AA9219F781400AFC8C0 /* ViewController.swift in Sources */,
 				870B8AB9219FAE5F00AFC8C0 /* RatingControl.swift in Sources */,
 				870B8AA7219F781400AFC8C0 /* AppDelegate.swift in Sources */,
+				87F57EF4219FBFA600D6E532 /* MealTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
